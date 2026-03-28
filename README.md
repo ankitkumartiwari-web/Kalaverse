@@ -1,14 +1,12 @@
 <p align="center">
-    <img src="https://github.com/ankitkumartiwari-web/CreativitySphere/assets/118653780/3e701c4e-4681-4378-bd07-d6c40b655960" alt="CreativitySphere Logo" width="60">
+    <img src="https://github.com/ankitkumartiwari-web/Kalaverse/assets/118653780/3e701c4e-4681-4378-bd07-d6c40b655960" alt="Kalaverse Logo" width="60">
 </p>
 
-#  CreativitySphere
-
-![CreativitySphere Logo](https://github.com/a4d3e/CreativitySphere/assets/142813108/5be71e5c-9daa-4e64-9965-ae33dac5b596)
+#  Kalaverse
 
 ## About Us
 
-CreativitySphere is a platform dedicated to fostering creativity and connecting artists and art enthusiasts worldwide. Our mission is to provide a curated space where artists can showcase their work, engage with the art community, and explore new creative opportunities.
+Kalaverse is a platform dedicated to fostering creativity and connecting artists and art enthusiasts worldwide. Our mission is to provide a curated space where artists can showcase their work, engage with the art community, and explore new creative opportunities.
 
 ## Features
 
@@ -22,17 +20,17 @@ CreativitySphere is a platform dedicated to fostering creativity and connecting 
 
 ## Refrence
 
-![landingpage](https://github.com/a4d3e/CreativitySphere/assets/118653780/04169c68-c22c-44e4-b8ea-494f46b43efe)
+![landingpage](https://github.com/a4d3e/Kalaverse/assets/118653780/04169c68-c22c-44e4-b8ea-494f46b43efe)
 
-![homepage](https://github.com/a4d3e/CreativitySphere/assets/118653780/1f589b97-c085-4172-8b60-b72c97b1ffd6)
+![homepage](https://github.com/a4d3e/Kalaverse/assets/118653780/1f589b97-c085-4172-8b60-b72c97b1ffd6)
 
-![profilepage](https://github.com/a4d3e/CreativitySphere/assets/118653780/42203102-454c-4c97-9da7-2250185422b9)
+![profilepage](https://github.com/a4d3e/Kalaverse/assets/118653780/42203102-454c-4c97-9da7-2250185422b9)
 
-![signup](https://github.com/a4d3e/CreativitySphere/assets/118653780/1bf79dd9-efee-4c50-a342-15cc5648606e)
+![signup](https://github.com/a4d3e/Kalaverse/assets/118653780/1bf79dd9-efee-4c50-a342-15cc5648606e)
 
 ## Preview
 
-https://creativitysphere.netlify.app/
+https://Kalaverse.netlify.app/
 
 # Connect with me
 
