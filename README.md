@@ -18,15 +18,6 @@ Kalaverse is a platform dedicated to fostering creativity and connecting artists
 - *Portfolio Management:* Showcase your portfolio, manage your artwork, and track your artistic journey.
 - *Create Awareness:* Free videos to create awareness about art.
 
-## Refrence
-
-![landingpage](https://github.com/a4d3e/Kalaverse/assets/118653780/04169c68-c22c-44e4-b8ea-494f46b43efe)
-
-![homepage](https://github.com/a4d3e/Kalaverse/assets/118653780/1f589b97-c085-4172-8b60-b72c97b1ffd6)
-
-![profilepage](https://github.com/a4d3e/Kalaverse/assets/118653780/42203102-454c-4c97-9da7-2250185422b9)
-
-![signup](https://github.com/a4d3e/Kalaverse/assets/118653780/1bf79dd9-efee-4c50-a342-15cc5648606e)
 
 ## Preview
 
