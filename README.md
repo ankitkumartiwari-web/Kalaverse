@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="https://github.com/ankitkumartiwari-web/Kalaverse/assets/118653780/3e701c4e-4681-4378-bd07-d6c40b655960" alt="Kalaverse Logo" width="60">
+    <img src="https://github.com/ankitkumartiwari-web/CreativitySphere/assets/118653780/3e701c4e-4681-4378-bd07-d6c40b655960" alt="CreativitySphere Logo" width="60">
 </p>
 
-#  Kalaverse
+#  CreativitySphere
 
 ## About Us
 
-Kalaverse is a platform dedicated to fostering creativity and connecting artists and art enthusiasts worldwide. Our mission is to provide a curated space where artists can showcase their work, engage with the art community, and explore new creative opportunities.
+CreativitySphere is a platform dedicated to fostering creativity and connecting artists and art enthusiasts worldwide. Our mission is to provide a curated space where artists can showcase their work, engage with the art community, and explore new creative opportunities.
 
 ## Features
 
@@ -21,7 +21,7 @@ Kalaverse is a platform dedicated to fostering creativity and connecting artists
 
 ## Preview
 
-https://Kalaverse.netlify.app/
+https://CreativitySphere.netlify.app/
 
 # Connect with me
 
